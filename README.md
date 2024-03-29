@@ -15,7 +15,7 @@ Palestrantes:
 - Thiago Bertuzzi (Microsoft MVP)
 - Bruno Brito (Microsoft MVP)
 
-Tecnologias abordadas: **Azure App Service, Azure Container Apps, Azure Functions, Kubernetes, Azure Kubernetes Service, Azure API Management, Azure Storage, Linux, Cost Management, Copilot, OpenTelemetry...**
+Tecnologias abordadas: **Azure App Service, Azure Container Apps, Azure Functions, Kubernetes, Azure Kubernetes Service, Azure API Management, Azure Networking services, Azure Storage, Linux, Cost Management, Copilot, OpenTelemetry...**
 
 Na pasta [**/img**](img/) estão outros prints do evento.
 
