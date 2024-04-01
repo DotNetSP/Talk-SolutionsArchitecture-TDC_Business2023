@@ -27,6 +27,6 @@ Deixamos aqui nossos agradecimentos ao **Adriano Rodrigues** pelo convite à com
 
 ![Palestrando](img/a-06.png)
 
-![Palestrando](img/a-07.png)
+![Palestrando](img/a-13.png)
 
 ![Banner](img/banner.png)
